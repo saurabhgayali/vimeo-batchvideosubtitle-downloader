@@ -7,3 +7,8 @@ Just download the html that contains the embedded videos. The associated folder 
 
 ### The current version download 720p only.
 Setting 1080p causes 404 for several files.
+
+#Requirments
+1. Python
+2. Python library: requests
+3. wget [With path entry]
